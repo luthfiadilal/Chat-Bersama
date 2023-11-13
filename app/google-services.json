@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "822325267505",
+    "firebase_url": "https://chat-auth-fe901-default-rtdb.firebaseio.com",
+    "project_id": "chat-auth-fe901",
+    "storage_bucket": "chat-auth-fe901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822325267505:android:2ab9e20f0754c4f165d910",
+        "android_client_info": {
+          "package_name": "com.example.chatfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkuJ5dDLPtrwHAIG3gH7NZSa34z6HsIw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
